@@ -33,14 +33,14 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/pesorudy/Real-Time-Bus-Tracker" ><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/paolobang/PacMen-Exercise" ><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://pesorudy.github.io/Real-Time-Bus-Tracker/" target="_blank">View Demo</a>
+    <a href="https://paolobang.github.io/PacMen-Exercise/" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/pesorudy/Real-Time-Bus-Tracker/issues">Report Bug</a>
+    <a href="https://github.com/paolobang/PacMen-Exercise/issues">Report Bug</a>
     ·
-    <a href="https://github.com/pesorudy/Real-Time-Bus-Tracker/issues">Request Feature</a>
+    <a href="https://github.com/paolobang/PacMen-Exercise/issues">Request Feature</a>
   </p>
 </div>
 
@@ -51,8 +51,7 @@
 
 
 
-This is is part of Professional Certificate in Coding: Full Stack Development with MERN by MIT. This project uses Javascript, CSS, HTML and MapBox Web Services API. The app shows the real time bus tracker in the city of Boston. The marker moves along the streets as the bus would. Also show some relevant information such as a Bus Number, their coordinates and last time location.
-
+This is is part of Professional Certificate in Coding: Full Stack Development with MERN by MIT. This project uses Javascript, CSS, HTML and MapBox Web Services API. This web allowes the ability to add more than one Pacman and to have them move not just in a horizontal plane but a vertical plance as well.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -61,7 +60,6 @@ This is is part of Professional Certificate in Coding: Full Stack Development wi
 ### :rocket: Built With
 
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Bootstrap](https://getbootstrap.com)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -79,7 +77,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/pesorudy/Real-Time-Bus-Tracker.git
+   git clone https://github.com/paolobang/PacMen-Exercise
    ```
 2. Install NPM packages
    ```sh
@@ -104,10 +102,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## :dart: Roadmap
 
-- [ ] Improve css style
-- [ ] Add more effects to the eyes
+- [x] Improve css style
+- [ ] Control pacman with arrows keyboard
 
-See the [open issues](https://github.com/pesorudy/Real-Time-Bus-Tracker/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/paolobang/PacMen-Exercise/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -145,23 +143,23 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Rudy Huaman - [@pesorudy](https://twitter.com/pesorudy) - pesorudy@gmail.com
 
-Project Link: [https://github.com/pesorudy/Real-Time-Bus-Tracker](https://github.com/pesorudy/Real-Time-Bus-Tracker)
+Project Link: [https://github.com/paolobang/PacMen-Exercise](https://github.com/paolobang/PacMen-Exercise)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[contributors-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[forks-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/network/members
-[stars-shield]: https://img.shields.io/github/stars/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[stars-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/stargazers
-[issues-shield]: https://img.shields.io/github/issues/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[issues-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/issues
-[license-shield]: https://img.shields.io/github/license/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[license-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/paolobang/PacMen-Exercise.svg?style=for-the-badge
+[contributors-url]: https://github.com/paolobang/PacMen-Exercise/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/paolobang/PacMen-Exercise.svg?style=for-the-badge
+[forks-url]: https://github.com/paolobang/PacMen-Exercise/network/members
+[stars-shield]: https://img.shields.io/github/stars/paolobang/PacMen-Exercise.svg?style=for-the-badge
+[stars-url]: https://github.com/paolobang/PacMen-Exercise/stargazers
+[issues-shield]: https://img.shields.io/github/issues/paolobang/PacMen-Exercise.svg?style=for-the-badge
+[issues-url]: https://github.com/paolobang/PacMen-Exercise/issues
+[license-shield]: https://img.shields.io/github/license/paolobang/PacMen-Exercise.svg?style=for-the-badge
+[license-url]: https://github.com/paolobang/PacMen-Exercise/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rudyhuaman/
 [product-screenshot]: /assets/screen.gif
