@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h1 align="center">Real Time Bus Tracker Project </h1>
+<h1 align="center">Pacmen Excercise  </h1>
 
   <p align="center">
     <br />
