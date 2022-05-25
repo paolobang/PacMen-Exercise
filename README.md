@@ -93,7 +93,7 @@ To get a local copy up and running follow these simple example steps.
 
 This is only for academic use in order to understand javascript logic for capture mouse movements around the screen. 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
